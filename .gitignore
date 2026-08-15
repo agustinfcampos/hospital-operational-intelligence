@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Local extracted data
+extraction/output/
+*.parquet
+*.csv
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
